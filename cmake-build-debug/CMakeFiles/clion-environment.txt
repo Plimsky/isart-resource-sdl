@@ -1,0 +1,2 @@
+Options: 
+CMake: 3.8.2@/home/v_nicopolsky/clion/bin/cmake/bin/cmake

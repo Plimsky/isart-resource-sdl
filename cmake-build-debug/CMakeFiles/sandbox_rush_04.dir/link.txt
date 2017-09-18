@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/sandbox_rush_04.dir/main.c.o CMakeFiles/sandbox_rush_04.dir/sdl_init.c.o CMakeFiles/sandbox_rush_04.dir/sdl_close.c.o CMakeFiles/sandbox_rush_04.dir/sdl_image.c.o CMakeFiles/sandbox_rush_04.dir/sdl_player.c.o CMakeFiles/sandbox_rush_04.dir/sdl_display.c.o CMakeFiles/sandbox_rush_04.dir/game.c.o  -o sandbox_rush_04 -lSDL2 -lSDL2_ttf -lSDL2_image 

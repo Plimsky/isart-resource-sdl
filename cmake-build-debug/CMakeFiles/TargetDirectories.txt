@@ -1,0 +1,3 @@
+/home/v_nicopolsky/CLionProjects/sandbox_rush_04/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/v_nicopolsky/CLionProjects/sandbox_rush_04/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/v_nicopolsky/CLionProjects/sandbox_rush_04/cmake-build-debug/CMakeFiles/sandbox_rush_04.dir

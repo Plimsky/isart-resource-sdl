@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="sandbox_rush_04"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/v_nicopolsky/CLionProjects/sandbox_rush_04/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/v_nicopolsky/CLionProjects/sandbox_rush_04/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/v_nicopolsky/CLionProjects/sandbox_rush_04/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/v_nicopolsky/CLionProjects/sandbox_rush_04/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/v_nicopolsky/CLionProjects/sandbox_rush_04/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/v_nicopolsky/CLionProjects/sandbox_rush_04/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/v_nicopolsky/CLionProjects/sandbox_rush_04/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/v_nicopolsky/CLionProjects/sandbox_rush_04/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/v_nicopolsky/CLionProjects/sandbox_rush_04/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/v_nicopolsky/CLionProjects/sandbox_rush_04/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/v_nicopolsky/CLionProjects/sandbox_rush_04/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/v_nicopolsky/CLionProjects/sandbox_rush_04/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/v_nicopolsky/CLionProjects/sandbox_rush_04/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/v_nicopolsky/CLionProjects/sandbox_rush_04/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/v_nicopolsky/CLionProjects/sandbox_rush_04/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sandbox_rush_04">
+				<Option output="/home/v_nicopolsky/CLionProjects/sandbox_rush_04/cmake-build-debug/sandbox_rush_04" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/v_nicopolsky/CLionProjects/sandbox_rush_04/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/v_nicopolsky/CLionProjects/sandbox_rush_04/cmake-build-debug/Makefile&quot;  VERBOSE=1 sandbox_rush_04"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/v_nicopolsky/CLionProjects/sandbox_rush_04/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/v_nicopolsky/CLionProjects/sandbox_rush_04/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/v_nicopolsky/CLionProjects/sandbox_rush_04/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sandbox_rush_04/fast">
+				<Option output="/home/v_nicopolsky/CLionProjects/sandbox_rush_04/cmake-build-debug/sandbox_rush_04" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/v_nicopolsky/CLionProjects/sandbox_rush_04/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/v_nicopolsky/CLionProjects/sandbox_rush_04/cmake-build-debug/Makefile&quot;  VERBOSE=1 sandbox_rush_04/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/v_nicopolsky/CLionProjects/sandbox_rush_04/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/v_nicopolsky/CLionProjects/sandbox_rush_04/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/v_nicopolsky/CLionProjects/sandbox_rush_04/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/v_nicopolsky/CLionProjects/sandbox_rush_04/game.c">
+			<Option target="sandbox_rush_04"/>
+		</Unit>
+		<Unit filename="/home/v_nicopolsky/CLionProjects/sandbox_rush_04/game.h">
+			<Option target="sandbox_rush_04"/>
+		</Unit>
+		<Unit filename="/home/v_nicopolsky/CLionProjects/sandbox_rush_04/main.c">
+			<Option target="sandbox_rush_04"/>
+		</Unit>
+		<Unit filename="/home/v_nicopolsky/CLionProjects/sandbox_rush_04/sdl_close.c">
+			<Option target="sandbox_rush_04"/>
+		</Unit>
+		<Unit filename="/home/v_nicopolsky/CLionProjects/sandbox_rush_04/sdl_close.h">
+			<Option target="sandbox_rush_04"/>
+		</Unit>
+		<Unit filename="/home/v_nicopolsky/CLionProjects/sandbox_rush_04/sdl_display.c">
+			<Option target="sandbox_rush_04"/>
+		</Unit>
+		<Unit filename="/home/v_nicopolsky/CLionProjects/sandbox_rush_04/sdl_display.h">
+			<Option target="sandbox_rush_04"/>
+		</Unit>
+		<Unit filename="/home/v_nicopolsky/CLionProjects/sandbox_rush_04/sdl_image.c">
+			<Option target="sandbox_rush_04"/>
+		</Unit>
+		<Unit filename="/home/v_nicopolsky/CLionProjects/sandbox_rush_04/sdl_image.h">
+			<Option target="sandbox_rush_04"/>
+		</Unit>
+		<Unit filename="/home/v_nicopolsky/CLionProjects/sandbox_rush_04/sdl_init.c">
+			<Option target="sandbox_rush_04"/>
+		</Unit>
+		<Unit filename="/home/v_nicopolsky/CLionProjects/sandbox_rush_04/sdl_init.h">
+			<Option target="sandbox_rush_04"/>
+		</Unit>
+		<Unit filename="/home/v_nicopolsky/CLionProjects/sandbox_rush_04/sdl_player.c">
+			<Option target="sandbox_rush_04"/>
+		</Unit>
+		<Unit filename="/home/v_nicopolsky/CLionProjects/sandbox_rush_04/sdl_player.h">
+			<Option target="sandbox_rush_04"/>
+		</Unit>
+		<Unit filename="/home/v_nicopolsky/CLionProjects/sandbox_rush_04/sdl_struct.h">
+			<Option target="sandbox_rush_04"/>
+		</Unit>
+		<Unit filename="/home/v_nicopolsky/CLionProjects/sandbox_rush_04/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
