@@ -40,7 +40,7 @@ bool initSDLImg()
     bool isSucceed = true;
     int imgAfterInitResult = IMG_Init(SDL_INIT_IMG);
 
-    if (SDL_INIT_IMG & imgAfterInitResult != SDL_INIT_IMG)
+    if ((SDL_INIT_IMG & imgAfterInitResult) != SDL_INIT_IMG)
     {
         SDL_Log("IMG_Init: Failed to init required jpg and png support!\n");
         SDL_Log("IMG_Init: %s\n", IMG_GetError());
@@ -52,7 +52,7 @@ bool initSDLImg()
 
 bool initSDLMainWindow(t_sdl_base *sdlBase)
 {
-    bool isSucceed = true;
+    bool isSucceed;
 
     sdlBase->window = SDL_CreateWindow("My awesome2 SDL Window",
                                        SDL_WINDOWPOS_CENTERED,

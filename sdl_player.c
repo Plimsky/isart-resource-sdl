@@ -32,7 +32,6 @@ void movePlayer(const Uint8 *keyboardState, t_sdl_player *player)
 {
     int8_t playerX = 0;
     int8_t playerY = 0;
-    int temp = 0;
 
     /* User Keyboard  */
     if(keyboardState[SDL_SCANCODE_LEFT] || keyboardState[SDL_SCANCODE_A])
